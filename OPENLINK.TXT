@@ -1,7 +1,7 @@
 REM Title: OPEN SAFARI AND ENTER DESIRED LINK
 REM Author: THESHAYLANGUYEN
-REM Description: Opens note app where you can enter desired text
-REM Target: IOS 17 Iphones
+REM Description: Opens safari app where you can enter the desired link and then opens it
+REM Target: IOS 17 iPhones
 
 GUI SPACE
 DELAY 1000
