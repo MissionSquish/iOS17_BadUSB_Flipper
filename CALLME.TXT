@@ -1,0 +1,13 @@
+REM Title: CALL ME
+REM Author: THESHAYLANGUYEN
+REM Description: Opens Phone app, Enters desried phone number and then calls, remember to replace "PHONE NUMBER"
+REM Target: IOS 17 Iphones
+
+GUI SPACE
+DELAY 1000
+STRING PHONE
+ENTER
+DELAY 3000
+STRING "Phone Number"
+DELAY 2000
+ENTER
